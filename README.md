@@ -1,6 +1,8 @@
-# JavaArrays
+# Exercicios JAVA
 
-#### Atividade de Bubble Sort feita pelo livro Java para iniciantes do autor Herbert Schildt
+## Repositório feito para demonstrar exercicios feitos a partir de meus estudos do livro  "Java para iniciantes do autor Herbert Schildt"
+
+#### Atividade de Bubble Sort 
 
 -Array unidercional 
 -Linguagem de programação Java 
